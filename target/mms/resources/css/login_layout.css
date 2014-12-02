@@ -1,0 +1,38 @@
+
+#container{
+border:1px solid #000000;
+margin: 0 auto;
+width: 780px;
+background: #C4C2C2;
+}
+
+#header{
+background-image: url("../images/banner.jpg");
+width: 780px;
+height:80px;
+background-repeat: no-repeat;
+background-position: center; 
+}
+
+#content{
+border: 1px solid #000000;
+margin: 20px 20px;
+padding: 10px;
+
+}
+a{
+text-decoration: none;
+}
+
+#footer{
+text-align: center;
+width: 780px;
+}
+
+tr.odd{
+background-color: #FAFAFA;
+}
+tr.even{
+background-color: #F8E0F1;
+}
+
